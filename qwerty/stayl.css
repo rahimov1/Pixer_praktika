@@ -1,0 +1,24 @@
+.asos{
+    width: 200px ;
+    height: 650px;
+    background-color: black;
+}
+.qizil{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 50%;
+}
+.sariq{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border-radius: 50%;
+
+}
+.yashil{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    border-radius: 50%;
+}

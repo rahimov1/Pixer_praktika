@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Screenshots"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js.11"
+	}
+}

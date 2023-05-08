@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+img{
+    background-color: chocolate;
+}
+h1{
+  margin-left: 12%;
+}
+form{
+margin-left:70%;
+margin-top: -36%;
+}
+input{
+    border-radius: 10px;
+    width: 250px;
+    height: 50px;
+    font-size: 0.9em;
+}
+button  
+{margin-left: 70%;
+width: 250px;
+height: 30px;
+color: aliceblue;
+background-color: rgba(12, 12, 14, 0.871);
+border-radius: 15px;
+}
+
